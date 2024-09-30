@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise1 {
+public class task03 {
     public static void main(String[] args) {
         final double p = 3.14;
         double l, r, S, V;
